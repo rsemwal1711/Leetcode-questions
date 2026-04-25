@@ -34,12 +34,14 @@
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0897-increasing-order-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0897-increasing-order-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0897-increasing-order-search-tree) |
@@ -51,6 +53,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0897-increasing-order-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0897-increasing-order-search-tree) |
@@ -79,4 +82,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0257-binary-tree-paths) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
