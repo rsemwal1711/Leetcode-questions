@@ -13,6 +13,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Binary Search
 |  |
@@ -39,6 +40,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0257-binary-tree-paths) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0897-increasing-order-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
@@ -47,12 +49,14 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0257-binary-tree-paths) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0897-increasing-order-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0897-increasing-order-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
@@ -61,6 +65,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0257-binary-tree-paths) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0897-increasing-order-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0897-increasing-order-search-tree) |
 ## Linked List
 |  |
@@ -70,6 +75,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0705-design-hashset) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Design
@@ -92,6 +98,7 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0112-path-sum) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Counting
 |  |
 | ------- |
