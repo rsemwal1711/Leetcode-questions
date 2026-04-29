@@ -18,10 +18,12 @@
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0445-add-two-numbers-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
