@@ -105,4 +105,12 @@
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1394-find-lucky-integer-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
