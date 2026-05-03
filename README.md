@@ -95,6 +95,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0257-binary-tree-paths) |
+| [0796-rotate-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0796-rotate-string) |
 | [2000-reverse-prefix-of-word](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
 ## Backtracking
@@ -122,4 +123,8 @@
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
