@@ -14,6 +14,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0061-rotate-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2000-reverse-prefix-of-word](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2000-reverse-prefix-of-word) |
@@ -77,6 +78,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0061-rotate-list) |
 | [0445-add-two-numbers-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0705-design-hashset) |
 ## Hash Table
