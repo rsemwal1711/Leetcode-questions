@@ -44,6 +44,7 @@
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -55,6 +56,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -73,6 +75,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -117,6 +120,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
