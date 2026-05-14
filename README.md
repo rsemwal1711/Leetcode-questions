@@ -27,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0048-rotate-image) |
 | [0367-valid-perfect-square](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0445-add-two-numbers-ii) |
