@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0048-rotate-image) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0705-design-hashset](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0705-design-hashset) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -22,6 +23,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Math
