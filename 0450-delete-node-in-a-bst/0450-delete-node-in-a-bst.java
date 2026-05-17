@@ -22,36 +22,38 @@ class Solution {
         if(root.left == null) return root.right;
         else if(root.right == null) return root.left;
         else{
-            TreeNode l = findLastRight(root.left);
-            TreeNode r = root.right;
-            l.right = r;
+            TreeNode a = findLastRight(root.left);
+            TreeNode b = root.right;
+            a.right = b;
             return root.left;
         }
     }
     public TreeNode deleteNode(TreeNode root, int key) {
-        TreeNode temp = root;
         if(root == null) return null;
-        if(root.val == key) return helper(root);
-        while(root != null){
-            if(root.val > key){
-                if(root.left != null && root.left.val == key){
-                    root.left = helper(root.left);
+        if(root.val == key){
+            return helper(root);
+        }
+        TreeNode temp = root;
+        while(temp!=null){
+            if(temp.val > key){
+                if(temp.left != null && temp.left.val == key){
+                    temp.left = helper(temp.left);
                     break;
                 }
                 else{
-                    root = root.left;
+                    temp = temp.left;
                 }
             }
             else{
-                if(root.right != null && root.right.val == key){
-                    root.right = helper(root.right);
+                if(temp.right != null && temp.right.val == key){
+                    temp.right = helper(temp.right);
                     break;
                 }
                 else{
-                    root = root.right;
+                    temp = temp.right;
                 }
             }
         }
-        return temp;
+        return root;
     }
 }
