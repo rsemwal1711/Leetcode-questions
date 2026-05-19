@@ -12,6 +12,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2540-minimum-common-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Two Pointers
 |  |
@@ -20,12 +21,14 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2000-reverse-prefix-of-word](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2000-reverse-prefix-of-word) |
+| [2540-minimum-common-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +109,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0705-design-hashset) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2540-minimum-common-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2540-minimum-common-value) |
 ## Design
 |  |
 | ------- |
