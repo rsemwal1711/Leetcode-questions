@@ -137,6 +137,7 @@
 | [0796-rotate-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0796-rotate-string) |
 | [2000-reverse-prefix-of-word](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3612-process-string-with-special-operations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3612-process-string-with-special-operations-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3612-process-string-with-special-operations-i) |
 ## String Matching
 |  |
 | ------- |
