@@ -167,6 +167,7 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0190-reverse-bits) |
+| [0476-number-complement](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0476-number-complement) |
 ## Simulation
 |  |
 | ------- |
