@@ -42,6 +42,7 @@
 | [0048-rotate-image](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0048-rotate-image) |
 | [0367-valid-perfect-square](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0445-add-two-numbers-ii) |
+| [1486-xor-operation-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1486-xor-operation-in-an-array) |
 | [3783-mirror-distance-of-an-integer](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
 |  |
@@ -169,6 +170,7 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0190-reverse-bits) |
 | [0476-number-complement](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0476-number-complement) |
+| [1486-xor-operation-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
 |  |
 | ------- |
