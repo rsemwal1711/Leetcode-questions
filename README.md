@@ -13,6 +13,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1748-sum-of-unique-elements) |
+| [1833-maximum-ice-cream-bars](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0409-longest-palindrome) |
+| [1833-maximum-ice-cream-bars](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Stack
 |  |
@@ -197,4 +199,12 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1732-find-the-highest-altitude) |
+## Sorting
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
