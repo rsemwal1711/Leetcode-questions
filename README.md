@@ -79,6 +79,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0897-increasing-order-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0897-increasing-order-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0897-increasing-order-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0897-increasing-order-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -116,6 +119,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0897-increasing-order-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -221,4 +225,8 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
