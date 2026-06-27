@@ -92,6 +92,7 @@
 | [0257-binary-tree-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0897-increasing-order-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0897-increasing-order-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -174,6 +175,7 @@
 | [0112-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Counting
 |  |
@@ -233,4 +235,12 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
