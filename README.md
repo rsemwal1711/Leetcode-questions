@@ -10,6 +10,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0705-design-hashset](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0705-design-hashset) |
 | [0733-flood-fill](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0867-transpose-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -202,6 +203,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0867-transpose-matrix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -215,6 +217,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0048-rotate-image) |
 | [0733-flood-fill](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0867-transpose-matrix) |
 ## Sliding Window
 |  |
 | ------- |
