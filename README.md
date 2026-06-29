@@ -18,6 +18,7 @@
 | [1748-sum-of-unique-elements](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1748-sum-of-unique-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2540-minimum-common-value) |
@@ -162,6 +163,7 @@
 | [0678-valid-parenthesis-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3612-process-string-with-special-operations-i) |
