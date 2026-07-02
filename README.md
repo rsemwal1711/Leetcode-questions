@@ -14,6 +14,7 @@
 | [0733-flood-fill](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0733-flood-fill) |
 | [0845-longest-mountain-in-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0845-longest-mountain-in-array) |
 | [0867-transpose-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0994-rotting-oranges) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -191,6 +192,7 @@
 | [0547-number-of-provinces](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0994-rotting-oranges) |
 ## Counting
 |  |
 | ------- |
@@ -227,6 +229,7 @@
 | [0542-01-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0994-rotting-oranges) |
 ## Sliding Window
 |  |
 | ------- |
