@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0048-rotate-image) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0542-01-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0705-design-hashset](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0705-design-hashset) |
@@ -145,6 +146,7 @@
 | [0001-two-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0409-longest-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0409-longest-palindrome) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0705-design-hashset) |
@@ -262,6 +264,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
