@@ -21,6 +21,7 @@
 | [0845-longest-mountain-in-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0845-longest-mountain-in-array) |
 | [0867-transpose-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -116,6 +117,7 @@
 | [0733-flood-fill](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [0897-increasing-order-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0897-increasing-order-search-tree) |
+| [1020-number-of-enclaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -211,6 +213,7 @@
 | [0733-flood-fill](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 ## Counting
 |  |
 | ------- |
@@ -249,6 +252,7 @@
 | [0733-flood-fill](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 ## Sliding Window
 |  |
 | ------- |
@@ -289,6 +293,7 @@
 | [0130-surrounded-regions](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
