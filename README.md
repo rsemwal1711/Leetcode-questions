@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0130-surrounded-regions) |
@@ -223,6 +224,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
@@ -282,6 +284,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0542-01-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0845-longest-mountain-in-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0845-longest-mountain-in-array) |
