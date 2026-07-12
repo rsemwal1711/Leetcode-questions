@@ -28,6 +28,7 @@
 | [0994-rotting-oranges](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1331-rank-transform-of-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -180,6 +181,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0705-design-hashset) |
 | [1189-maximum-number-of-balloons](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -296,6 +298,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0229-majority-element-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1833-maximum-ice-cream-bars](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
 | [2679-sum-in-a-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2679-sum-in-a-matrix) |
