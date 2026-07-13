@@ -27,6 +27,7 @@
 | [0845-longest-mountain-in-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0845-longest-mountain-in-array) |
 | [0867-transpose-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
@@ -64,6 +65,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2540-minimum-common-value) |
@@ -291,12 +293,14 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1732-find-the-highest-altitude) |
 ## Sorting
 |  |
