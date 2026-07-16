@@ -18,6 +18,7 @@
 | [0200-number-of-islands](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0229-majority-element-ii) |
+| [0525-contiguous-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0705-design-hashset) |
@@ -187,6 +188,7 @@
 | [0229-majority-element-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0705-design-hashset) |
@@ -311,6 +313,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0974-subarray-sums-divisible-by-k) |
