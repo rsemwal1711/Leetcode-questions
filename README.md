@@ -177,6 +177,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0445-add-two-numbers-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0705-design-hashset) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
