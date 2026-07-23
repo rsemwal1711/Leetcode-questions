@@ -23,6 +23,7 @@
 | [0525-contiguous-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
+| [0695-max-area-of-island](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0733-flood-fill) |
@@ -153,6 +154,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -272,6 +274,7 @@
 | [0542-01-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -322,6 +325,7 @@
 | [0130-surrounded-regions](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0867-transpose-matrix) |
@@ -393,6 +397,7 @@
 | [0130-surrounded-regions](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
