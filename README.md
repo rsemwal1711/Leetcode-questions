@@ -262,6 +262,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3612-process-string-with-special-operations-i) |
 ## Backtracking
 |  |
@@ -381,11 +382,13 @@
 | [1833-maximum-ice-cream-bars](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2679-sum-in-a-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2679-sum-in-a-matrix) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Monotonic Stack
 |  |
 | ------- |
