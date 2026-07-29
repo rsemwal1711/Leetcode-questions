@@ -168,6 +168,7 @@
 | [0802-find-eventual-safe-states](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0802-find-eventual-safe-states) |
 | [0897-increasing-order-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0897-increasing-order-search-tree) |
 | [1020-number-of-enclaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
@@ -291,6 +292,7 @@
 | [0802-find-eventual-safe-states](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 ## Counting
 |  |
@@ -416,6 +418,7 @@
 | [0695-max-area-of-island](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -427,6 +430,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0997-find-the-town-judge) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Enumeration
 |  |
