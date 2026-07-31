@@ -1,24 +1,20 @@
 class Solution {
     public int minimumPushes(String word) {
-        Map<Character, Integer> mpp = new TreeMap<>();
+        int[] freq = new int[26];
         for(char c : word.toCharArray()){
-            mpp.put(c, mpp.getOrDefault(c, 0) + 1);
+            freq[c - 'a']++;
         }
-        List<Integer> list = new ArrayList<>();
-        for(int it : mpp.values()){
-            list.add(it);
-        }
-        Collections.sort(list, Collections.reverseOrder());
+        Arrays.sort(freq);
+        int pos = 0;
         int ans = 0;
-        int i=0;
         int a = 1;
-        while(i < list.size()){
-            int temp = i;
-            while(i < list.size() && i < temp+8){
-                ans += list.get(i)*a;
-                i++;
+        for(int i=25;i>=0 && freq[i] > 0;i--){
+            if(pos == 8){
+                a++;
+                pos = 0;
             }
-            a += 1;
+            ans += freq[i] * a;
+            pos++;
         }
         return ans;
     }
