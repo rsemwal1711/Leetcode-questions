@@ -68,6 +68,7 @@
 | [0042-trapping-rain-water](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0202-happy-number](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0202-happy-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0832-flipping-an-image](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0845-longest-mountain-in-array) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0445-add-two-numbers-ii) |
@@ -220,6 +222,7 @@
 | [0127-word-ladder](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0409-longest-palindrome) |
