@@ -62,6 +62,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2574-left-and-right-sum-differences) |
 | [2679-sum-in-a-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2679-sum-in-a-matrix) |
+| [3731-find-missing-elements](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -248,6 +249,7 @@
 | [1748-sum-of-unique-elements](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1748-sum-of-unique-elements) |
 | [2540-minimum-common-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2540-minimum-common-value) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3731-find-missing-elements) |
 ## Design
 |  |
 | ------- |
@@ -413,6 +415,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
