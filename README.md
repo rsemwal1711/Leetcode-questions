@@ -290,6 +290,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3163-string-compression-iii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3163-string-compression-iii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3612-process-string-with-special-operations-i) |
 ## Backtracking
