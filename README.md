@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0367-valid-perfect-square) |
@@ -266,6 +267,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0006-zigzag-conversion) |
+| [0043-multiply-strings](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0187-repeated-dna-sequences) |
@@ -345,6 +347,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0043-multiply-strings) |
 | [0832-flipping-an-image](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1260-shift-2d-grid) |
