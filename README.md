@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0018-4sum) |
+| [0036-valid-sudoku](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0049-group-anagrams) |
@@ -231,6 +232,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -378,6 +380,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0200-number-of-islands) |
