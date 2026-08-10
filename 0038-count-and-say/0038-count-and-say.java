@@ -1,10 +1,10 @@
 class Solution {
     public String countAndSay(int n) {
-        if(n == 0) return "1";
+        if(n == 1) return "1";
         String str = "1";
         for(int i=0;i<n-1;i++){
             int j = 0;
-            String s = "";
+            StringBuilder s = new StringBuilder();
             while(j < str.length()){
                 char c = str.charAt(j);
                 int count = 0;
@@ -12,10 +12,10 @@ class Solution {
                     count++;
                     j++;
                 }
-                s += count;
-                s += c;
+                s.append(count);
+                s.append(c);
             }
-            str = s;
+            str = s.toString();
         }
         return str;
     }
