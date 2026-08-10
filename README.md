@@ -280,6 +280,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0006-zigzag-conversion) |
+| [0038-count-and-say](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0076-minimum-window-substring) |
