@@ -38,6 +38,7 @@
 | [0832-flipping-an-image](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0845-longest-mountain-in-array) |
 | [0848-shifting-letters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0848-shifting-letters) |
+| [0860-lemonade-change](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0867-transpose-matrix) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -131,6 +132,7 @@
 | [0409-longest-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
