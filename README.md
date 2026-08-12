@@ -68,6 +68,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2574-left-and-right-sum-differences) |
 | [2679-sum-in-a-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2679-sum-in-a-matrix) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -273,6 +274,7 @@
 | [1748-sum-of-unique-elements](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1748-sum-of-unique-elements) |
 | [2182-construct-string-with-repeat-limit](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2182-construct-string-with-repeat-limit) |
 | [2540-minimum-common-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2540-minimum-common-value) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3731-find-missing-elements) |
@@ -425,6 +427,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
