@@ -30,6 +30,7 @@
 | [0455-assign-cookies](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -105,6 +106,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
