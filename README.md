@@ -117,6 +117,7 @@
 | [0007-reverse-integer](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [0398-random-pick-index](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0398-random-pick-index) |
@@ -499,6 +500,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0213-house-robber-ii) |
 | [0413-arithmetic-slices](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0413-arithmetic-slices) |
@@ -598,4 +600,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0455-assign-cookies) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
