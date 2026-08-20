@@ -15,6 +15,7 @@
 | [0049-group-anagrams](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0130-surrounded-regions) |
@@ -427,6 +428,7 @@
 | [0036-valid-sudoku](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0542-01-matrix) |
@@ -512,6 +514,7 @@
 | [0053-maximum-subarray](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0213-house-robber-ii) |
 | [0413-arithmetic-slices](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0413-arithmetic-slices) |
