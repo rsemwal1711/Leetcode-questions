@@ -17,6 +17,7 @@
 | [0063-unique-paths-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0120-triangle](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -515,6 +516,7 @@
 | [0062-unique-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0213-house-robber-ii) |
 | [0413-arithmetic-slices](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0413-arithmetic-slices) |
