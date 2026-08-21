@@ -125,6 +125,7 @@
 | [0043-multiply-strings](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [0398-random-pick-index](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0398-random-pick-index) |
@@ -516,6 +517,7 @@
 | [0062-unique-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0213-house-robber-ii) |
@@ -620,4 +622,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
