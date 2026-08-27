@@ -60,6 +60,7 @@
 | [0997-find-the-town-judge](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1020-number-of-enclaves) |
+| [1051-height-checker](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
@@ -509,6 +510,7 @@
 | [0455-assign-cookies](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0721-accounts-merge) |
+| [1051-height-checker](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -524,6 +526,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0274-h-index) |
+| [1051-height-checker](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1051-height-checker) |
 | [1833-maximum-ice-cream-bars](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Monotonic Stack
@@ -669,4 +672,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
