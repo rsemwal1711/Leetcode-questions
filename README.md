@@ -279,6 +279,7 @@
 | [0445-add-two-numbers-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0705-design-hashset) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
 |  |
