@@ -93,6 +93,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
