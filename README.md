@@ -96,6 +96,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3903-smallest-stable-index-i) |
@@ -341,6 +342,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3731-find-missing-elements) |
 ## Design
 |  |
@@ -630,6 +632,7 @@
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0845-longest-mountain-in-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Topological Sort
 |  |
 | ------- |
@@ -726,4 +729,8 @@
 | ------- |
 | [0322-coin-change](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0518-coin-change-ii) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
