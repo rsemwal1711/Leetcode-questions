@@ -380,6 +380,7 @@
 | [0848-shifting-letters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0848-shifting-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2000-reverse-prefix-of-word) |
@@ -592,6 +593,7 @@
 | [0678-valid-parenthesis-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0845-longest-mountain-in-array) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
