@@ -154,6 +154,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3536-maximum-product-of-two-digits) |
