@@ -191,6 +191,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0316-remove-duplicate-letters) |
@@ -361,6 +362,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0006-zigzag-conversion) |
+| [0032-longest-valid-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0049-group-anagrams) |
@@ -575,6 +577,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0062-unique-paths) |
@@ -734,4 +737,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
