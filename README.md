@@ -11,6 +11,7 @@
 | [0018-4sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0053-maximum-subarray) |
@@ -407,6 +408,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0494-target-sum) |
