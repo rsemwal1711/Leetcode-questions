@@ -380,6 +380,7 @@
 | [0038-count-and-say](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0127-word-ladder) |
@@ -610,6 +611,7 @@
 | [0063-unique-paths-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
