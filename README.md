@@ -37,6 +37,7 @@
 | [0413-arithmetic-slices](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0494-target-sum) |
@@ -134,6 +135,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0367-valid-perfect-square) |
+| [0436-find-right-interval](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0633-sum-of-square-numbers) |
@@ -570,6 +572,7 @@
 | [0229-majority-element-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
