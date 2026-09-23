@@ -42,6 +42,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0525-contiguous-array) |
@@ -209,6 +210,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0897-increasing-order-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0897-increasing-order-search-tree) |
@@ -605,6 +607,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0316-remove-duplicate-letters) |
+| [0503-next-greater-element-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Dynamic Programming
