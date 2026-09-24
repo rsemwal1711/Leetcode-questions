@@ -1,39 +1,30 @@
 class Solution {
     public int maxProfit(int[] prices) {
         int n = prices.length;
-        int[][][] dp = new int[n+1][2][3];
+        int[][] dp = new int[n+1][5];
 
-        // for(int buy=0;buy<=1;buy++){
-        //     for(int cap=0;cap<=2;cap++){
-        //         dp[n][buy][cap] = 0;
-        //     }
-        // }
-        // for(int i=0;i<n;i++){
-        //     for(int buy=0;buy<=1;buy++){
-        //         dp[i][buy][0] = 0;
-        //     }
-        // }
+        // as -> Buy Sell Buy Sell.
+        // so even index for Buy and Negative index for Sell.
+
+        // size is n+1, 5 as we are doing +1 so to be safe from ArrayIndexOutOfBounds Exception.
 
         for(int i=n-1;i>=0;i--){
-            for(int buy=0;buy<=1;buy++){
-                for(int cap=1;cap<=2;cap++){
-                    int profit = 0;
-                    if(buy == 1){
-                        profit = Math.max(
-                            -prices[i] + dp[i+1][0][cap],
-                            0 + dp[i+1][1][cap]
-                        );
-                    }
-                    else{
-                        profit = Math.max(
-                            prices[i] + dp[i+1][1][cap-1],
-                            0 + dp[i+1][0][cap]
-                        );
-                    }
-                    dp[i][buy][cap] = profit;
+            for(int transaction=0;transaction<4;transaction++){
+                int profit = 0;
+                if(transaction % 2 == 0){
+                    dp[i][transaction] = Math.max(
+                        -prices[i] + dp[i+1][transaction+1],
+                        0 + dp[i+1][transaction]
+                    );
+                }
+                else{
+                    dp[i][transaction] = profit = Math.max(
+                        prices[i] + dp[i+1][transaction+1],
+                        0 + dp[i+1][transaction]
+                    );
                 }
             }
         }
-        return dp[0][1][2];
+        return dp[0][0];
     }
 }
