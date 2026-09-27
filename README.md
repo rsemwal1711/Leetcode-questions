@@ -223,6 +223,7 @@
 | [0739-daily-temperatures](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0897-increasing-order-search-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2000-reverse-prefix-of-word](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
@@ -420,6 +421,7 @@
 | [1092-shortest-common-supersequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -801,6 +803,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0032-longest-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Longest Common Subsequence
 |  |
 | ------- |
