@@ -225,6 +225,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
@@ -425,6 +426,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2000-reverse-prefix-of-word) |
@@ -804,6 +806,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Longest Common Subsequence
 |  |
 | ------- |
