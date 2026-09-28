@@ -738,6 +738,7 @@
 ## Bipartite Graph
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Quickselect
 |  |
@@ -816,4 +817,8 @@
 | [0583-delete-operation-for-two-strings](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1143-longest-common-subsequence) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
