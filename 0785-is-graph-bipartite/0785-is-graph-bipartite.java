@@ -1,27 +1,39 @@
 class Solution {
-    public boolean bfs(int i, int[][] graph, int V, int[] color){
+    public boolean bfs(int sr, int n, int[] color, int[][] graph){
         Queue<Integer> q = new LinkedList<>();
-        q.add(i);
-        color[i] = 0;
+        q.add(sr);
         while(!q.isEmpty()){
             int node = q.poll();
-            for(int it : graph[node]){
-                if(color[it] == -1){
-                    color[it] = 1-color[node];
-                    q.add(it);
+            for(int adjNode : graph[node]){
+                if(color[adjNode] == -1){
+                    color[adjNode] = 1 - color[node];
+                    q.add(adjNode);
                 }
-                else if(color[it] == color[node]) return false;
+                else if(color[adjNode] == color[node]) return false;
             }
         }
         return true;
     }
+    public boolean dfs(int node, int col, int[] color, int[][] graph){
+        color[node] = col;
+        for(int adjNode : graph[node]){
+            if(color[adjNode] == -1){
+                if(dfs(adjNode, 1 - col, color, graph) == false) return false;
+            }
+            else if(color[node] == color[adjNode]) return false;
+        }
+        return true;
+    }
     public boolean isBipartite(int[][] graph) {
-        int V = graph.length;
-        int[] color = new int[V];
-        for(int i=0;i<V;i++) color[i] = -1;
-        for(int i=0;i<V;i++){
+        int n = graph.length;
+        int[] color = new int[n];
+        Arrays.fill(color, -1);
+        for(int i=0;i<n;i++){
             if(color[i] == -1){
-                if(bfs(i, graph, V, color) == false) return false;
+                // if(!bfs(i, n, color, graph)){
+                //     return false;
+                // }
+                if(!dfs(i, 0, color, graph)) return false;
             }
         }
         return true;
