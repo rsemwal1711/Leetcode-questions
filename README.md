@@ -58,6 +58,7 @@
 | [0695-max-area-of-island](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0713-subarray-product-less-than-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0733-flood-fill) |
@@ -201,6 +202,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1386-cinema-seat-allocation) |
@@ -662,6 +664,7 @@
 | [0542-01-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0845-longest-mountain-in-array) |
