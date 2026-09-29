@@ -98,6 +98,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2540-minimum-common-value) |
@@ -547,6 +548,7 @@
 | [1020-number-of-enclaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2679-sum-in-a-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2679-sum-in-a-matrix) |
 ## Sliding Window
 |  |
@@ -668,6 +670,7 @@
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Union-Find
 |  |
 | ------- |
@@ -811,6 +814,7 @@
 | [0032-longest-valid-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Longest Common Subsequence
 |  |
 | ------- |
