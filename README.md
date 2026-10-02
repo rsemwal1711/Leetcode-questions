@@ -39,6 +39,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0322-coin-change) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0413-arithmetic-slices](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0435-non-overlapping-intervals) |
@@ -171,6 +172,7 @@
 | [0202-happy-number](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0227-basic-calculator-ii) |
 | [0367-valid-perfect-square](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0367-valid-perfect-square) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0398-random-pick-index) |
 | [0441-arranging-coins](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0445-add-two-numbers-ii) |
@@ -354,6 +356,7 @@
 | [0202-happy-number](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0229-majority-element-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -389,6 +392,7 @@
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0622-design-circular-queue](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0622-design-circular-queue) |
 | [0677-map-sum-pairs](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0677-map-sum-pairs) |
 | [0705-design-hashset](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0705-design-hashset) |
@@ -775,6 +779,7 @@
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0398-random-pick-index) |
 ## Quicksort
 |  |
