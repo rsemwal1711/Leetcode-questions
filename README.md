@@ -404,6 +404,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0043-multiply-strings) |
@@ -455,6 +456,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0257-binary-tree-paths) |
@@ -643,6 +645,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0044-wildcard-matching) |
@@ -826,6 +829,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
