@@ -233,6 +233,7 @@
 | [0678-valid-parenthesis-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0897-increasing-order-search-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -438,6 +439,7 @@
 | [0721-accounts-merge](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0848-shifting-letters) |
+| [0856-score-of-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1143-longest-common-subsequence) |
@@ -843,6 +845,7 @@
 | [0022-generate-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
