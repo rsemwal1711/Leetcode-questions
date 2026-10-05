@@ -99,6 +99,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1991-find-the-middle-index-in-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -538,6 +539,7 @@
 | [0867-transpose-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0867-transpose-matrix) |
 | [1094-car-pooling](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1260-shift-2d-grid) |
+| [2073-time-needed-to-buy-tickets](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -809,6 +811,7 @@
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0622-design-circular-queue) |
+| [2073-time-needed-to-buy-tickets](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Trie
 |  |
 | ------- |
