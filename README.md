@@ -171,6 +171,7 @@
 | [0070-climbing-stairs](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0227-basic-calculator-ii) |
+| [0279-perfect-squares](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0398-random-pick-index) |
@@ -481,6 +482,7 @@
 | [0200-number-of-islands](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0513-find-bottom-left-tree-value) |
@@ -673,6 +675,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0322-coin-change) |
@@ -814,6 +817,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0494-target-sum) |
@@ -830,6 +834,7 @@
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0518-coin-change-ii) |
 ## Recursion
