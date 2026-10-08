@@ -82,6 +82,7 @@
 | [0997-find-the-town-judge](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1020-number-of-enclaves) |
+| [1048-longest-string-chain](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1260-shift-2d-grid) |
@@ -140,6 +141,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0832-flipping-an-image](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0845-longest-mountain-in-array) |
+| [1048-longest-string-chain](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1048-longest-string-chain) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -387,6 +389,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0997-find-the-town-judge) |
+| [1048-longest-string-chain](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -454,6 +457,7 @@
 | [0856-score-of-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1021-remove-outermost-parentheses) |
+| [1048-longest-string-chain](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1143-longest-common-subsequence) |
@@ -642,6 +646,7 @@
 | [0455-assign-cookies](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0721-accounts-merge) |
+| [1048-longest-string-chain](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
@@ -712,6 +717,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0845-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
