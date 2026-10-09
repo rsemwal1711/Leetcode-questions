@@ -60,6 +60,7 @@
 | [0622-design-circular-queue](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0648-replace-words) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0713-subarray-product-less-than-k) |
@@ -711,6 +712,7 @@
 | [0518-coin-change-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0583-delete-operation-for-two-strings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -899,6 +901,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -912,4 +915,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
