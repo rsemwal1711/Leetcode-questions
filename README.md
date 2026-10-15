@@ -121,6 +121,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2574-left-and-right-sum-differences) |
 | [2679-sum-in-a-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2679-sum-in-a-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -415,6 +416,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2182-construct-string-with-repeat-limit](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2182-construct-string-with-repeat-limit) |
 | [2540-minimum-common-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2540-minimum-common-value) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -950,10 +952,12 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Bucket Sort
 |  |
 | ------- |
