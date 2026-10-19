@@ -112,6 +112,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -175,6 +176,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1631-path-with-minimum-effort](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2540-minimum-common-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2540-minimum-common-value) |
 ## Math
@@ -681,6 +683,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1833-maximum-ice-cream-bars](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2679-sum-in-a-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2679-sum-in-a-matrix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
