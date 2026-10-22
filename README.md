@@ -854,6 +854,7 @@
 | [0177-nth-highest-salary](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0177-nth-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0184-department-highest-salary](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0184-department-highest-salary) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 ## Reservoir Sampling
 |  |
 | ------- |
