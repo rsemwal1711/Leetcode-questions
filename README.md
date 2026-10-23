@@ -855,6 +855,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0184-department-highest-salary](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0184-department-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [1075-project-employees-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1075-project-employees-i) |
 ## Reservoir Sampling
 |  |
 | ------- |
