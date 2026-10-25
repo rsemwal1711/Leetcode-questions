@@ -857,6 +857,7 @@
 | [0184-department-highest-salary](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0184-department-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1075-project-employees-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1075-project-employees-i) |
+| [1393-capital-gainloss](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1393-capital-gainloss) |
 ## Reservoir Sampling
 |  |
 | ------- |
