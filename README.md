@@ -18,6 +18,7 @@
 | [0056-merge-intervals](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0120-triangle) |
@@ -515,6 +516,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0494-target-sum) |
@@ -575,6 +577,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0190-reverse-bits) |
 | [0476-number-complement](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0476-number-complement) |
