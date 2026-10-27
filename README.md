@@ -104,6 +104,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1710-maximum-units-on-a-truck](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -241,6 +242,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1386-cinema-seat-allocation) |
+| [1710-maximum-units-on-a-truck](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -697,6 +699,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1710-maximum-units-on-a-truck](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
