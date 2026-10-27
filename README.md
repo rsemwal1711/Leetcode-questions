@@ -151,6 +151,7 @@
 | [0455-assign-cookies](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0845-longest-mountain-in-array) |
 | [1048-longest-string-chain](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1048-longest-string-chain) |
@@ -233,6 +234,7 @@
 | [0455-assign-cookies](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0763-partition-labels](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -406,6 +408,7 @@
 | [0692-top-k-frequent-words](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0763-partition-labels) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -478,6 +481,7 @@
 | [0686-repeated-string-match](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0856-score-of-parentheses) |
