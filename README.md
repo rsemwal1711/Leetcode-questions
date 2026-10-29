@@ -451,6 +451,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0214-shortest-palindrome) |
 | [0705-design-hashset](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0705-design-hashset) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## String
@@ -473,6 +474,7 @@
 | [0127-word-ladder](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0316-remove-duplicate-letters) |
@@ -615,6 +617,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0796-rotate-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -859,6 +862,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Bipartite Graph
 |  |
@@ -1016,4 +1020,16 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0051-n-queens) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
