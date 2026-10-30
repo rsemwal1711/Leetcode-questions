@@ -457,6 +457,7 @@
 | [0214-shortest-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0214-shortest-palindrome) |
 | [0705-design-hashset](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0705-design-hashset) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1392-longest-happy-prefix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1392-longest-happy-prefix) |
 ## String
 |  |
 | ------- |
@@ -510,6 +511,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1392-longest-happy-prefix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1392-longest-happy-prefix) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -625,6 +627,7 @@
 | [0459-repeated-substring-pattern](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1392-longest-happy-prefix) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Matrix
 |  |
@@ -869,6 +872,7 @@
 | [0187-repeated-dna-sequences](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1392-longest-happy-prefix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1392-longest-happy-prefix) |
 ## Bipartite Graph
 |  |
 | ------- |
@@ -1035,11 +1039,13 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0459-repeated-substring-pattern) |
+| [1392-longest-happy-prefix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0459-repeated-substring-pattern) |
+| [1392-longest-happy-prefix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1392-longest-happy-prefix) |
 ## Ordered Set
 |  |
 | ------- |
