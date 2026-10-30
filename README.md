@@ -486,6 +486,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0648-replace-words](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0648-replace-words) |
@@ -621,6 +622,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0796-rotate-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -1032,10 +1034,12 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0459-repeated-substring-pattern) |
 ## Ordered Set
 |  |
 | ------- |
