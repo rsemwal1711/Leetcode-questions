@@ -54,6 +54,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0518-coin-change-ii) |
@@ -176,6 +177,7 @@
 | [0367-valid-perfect-square](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [0436-find-right-interval](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0713-subarray-product-less-than-k) |
@@ -268,6 +270,7 @@
 | [0316-remove-duplicate-letters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0735-asteroid-collision) |
@@ -741,6 +744,7 @@
 | [0042-trapping-rain-water](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1049,5 +1053,6 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0456-132-pattern) |
 | [0729-my-calendar-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
