@@ -396,6 +396,7 @@
 | [0445-add-two-numbers-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0707-design-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
@@ -462,6 +463,7 @@
 | [0622-design-circular-queue](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0622-design-circular-queue) |
 | [0677-map-sum-pairs](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0677-map-sum-pairs) |
 | [0705-design-hashset](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0707-design-linked-list) |
 | [0729-my-calendar-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0729-my-calendar-i) |
 ## Hash Function
 |  |
