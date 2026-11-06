@@ -489,6 +489,7 @@
 | [0076-minimum-window-substring](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0214-shortest-palindrome) |
@@ -782,6 +783,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0132-palindrome-partitioning-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0213-house-robber-ii) |
