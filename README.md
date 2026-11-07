@@ -92,6 +92,7 @@
 | [0997-find-the-town-judge](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1020-number-of-enclaves) |
+| [1043-partition-array-for-maximum-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1094-car-pooling) |
@@ -809,6 +810,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0845-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0931-minimum-falling-path-sum) |
+| [1043-partition-array-for-maximum-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1143-longest-common-subsequence) |
