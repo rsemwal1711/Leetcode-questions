@@ -21,6 +21,7 @@
 | [0064-minimum-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -273,6 +274,7 @@
 | [0032-longest-valid-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0143-reorder-list) |
 | [0227-basic-calculator-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0227-basic-calculator-ii) |
@@ -655,6 +657,7 @@
 | [0048-rotate-image](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0542-01-matrix) |
@@ -762,6 +765,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
@@ -781,6 +785,7 @@
 | [0064-minimum-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
