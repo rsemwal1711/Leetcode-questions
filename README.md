@@ -141,6 +141,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3693-climbing-stairs-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -829,6 +830,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rsemwal1711/Leetcode-questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3693-climbing-stairs-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/3693-climbing-stairs-ii) |
 ## Union-Find
 |  |
 | ------- |
