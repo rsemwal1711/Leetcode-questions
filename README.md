@@ -39,6 +39,7 @@
 | [0213-house-robber-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0274-h-index) |
@@ -670,6 +671,7 @@
 | [0085-maximal-rectangle](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0733-flood-fill) |
@@ -805,6 +807,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
