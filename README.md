@@ -319,6 +319,7 @@
 | [0404-sum-of-left-leaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0513-find-bottom-left-tree-value) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0655-print-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0655-print-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -343,6 +344,7 @@
 | [0404-sum-of-left-leaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0655-print-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0655-print-binary-tree) |
 | [0695-max-area-of-island](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0695-max-area-of-island) |
@@ -390,6 +392,7 @@
 | [0404-sum-of-left-leaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0513-find-bottom-left-tree-value) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0655-print-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0655-print-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -587,6 +590,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0655-print-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0655-print-binary-tree) |
 | [0695-max-area-of-island](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0695-max-area-of-island) |
