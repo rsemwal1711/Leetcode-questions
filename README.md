@@ -21,6 +21,7 @@
 | [0063-unique-paths-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -332,6 +333,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0079-word-search) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0113-path-sum-ii) |
@@ -510,6 +512,7 @@
 | [0065-valid-number](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0132-palindrome-partitioning-ii) |
@@ -575,6 +578,7 @@
 | [0046-permutations](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0494-target-sum) |
@@ -681,6 +685,7 @@
 | [0048-rotate-image](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0200-number-of-islands) |
