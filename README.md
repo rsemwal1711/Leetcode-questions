@@ -90,6 +90,7 @@
 | [0860-lemonade-change](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0931-minimum-falling-path-sum) |
+| [0946-validate-stack-sequences](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -297,6 +298,7 @@
 | [0856-score-of-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0946-validate-stack-sequences](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -659,6 +661,7 @@
 | [0735-asteroid-collision](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0946-validate-stack-sequences) |
 | [1094-car-pooling](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
