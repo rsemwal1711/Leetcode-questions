@@ -322,6 +322,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
@@ -348,6 +349,7 @@
 | [0210-course-schedule-ii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0513-find-bottom-left-tree-value) |
@@ -396,6 +398,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
@@ -1130,4 +1133,12 @@
 | ------- |
 | [0456-132-pattern](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0456-132-pattern) |
 | [0729-my-calendar-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0729-my-calendar-i) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
