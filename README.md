@@ -107,6 +107,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -227,6 +228,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0973-k-closest-points-to-origin) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1486-xor-operation-in-an-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -501,6 +503,7 @@
 | [0705-design-hashset](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0707-design-linked-list) |
 | [0729-my-calendar-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0729-my-calendar-i) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Hash Function
 |  |
 | ------- |
@@ -756,6 +759,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1094-car-pooling) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1991-find-the-middle-index-in-array) |
@@ -1153,4 +1157,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
