@@ -159,6 +159,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0018-4sum) |
@@ -516,6 +517,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -830,6 +832,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0042-trapping-rain-water) |
@@ -1131,6 +1134,7 @@
 ## Manacher
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0214-shortest-palindrome](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0214-shortest-palindrome) |
 ## Z Algorithm
 |  |
