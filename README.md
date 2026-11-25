@@ -998,6 +998,7 @@
 | [1075-project-employees-i](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1075-project-employees-i) |
 | [1393-capital-gainloss](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1393-capital-gainloss) |
 | [1527-patients-with-a-condition](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1527-patients-with-a-condition) |
+| [1667-fix-names-in-a-table](https://github.com/rsemwal1711/Leetcode-questions/tree/master/1667-fix-names-in-a-table) |
 ## Reservoir Sampling
 |  |
 | ------- |
