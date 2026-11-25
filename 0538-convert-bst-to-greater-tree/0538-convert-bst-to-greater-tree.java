@@ -20,8 +20,10 @@ class Solution {
         list.add(root.val);
         inorder(root.right, list);
     }
+
+    int sum = 0;
     public TreeNode convertBST(TreeNode root) {
-        if(root == null) return null;
+        /* if(root == null) return null;
         List<Integer> list = new ArrayList<>();
         inorder(root, list);
         Map<Integer, Integer> map = new HashMap<>();
@@ -41,6 +43,13 @@ class Solution {
                 if(node.right != null) q.add(node.right);
             }
         }
+        return root; */
+
+        if(root == null) return null;
+        convertBST(root.right);
+        sum += root.val;
+        root.val = sum;
+        convertBST(root.left);
         return root;
     }
 }
