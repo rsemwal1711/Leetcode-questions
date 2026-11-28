@@ -336,6 +336,7 @@
 | [0257-binary-tree-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -369,6 +370,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0538-convert-bst-to-greater-tree) |
@@ -399,6 +401,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -426,6 +429,7 @@
 | [0257-binary-tree-paths](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -519,6 +523,7 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0449-serialize-and-deserialize-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0622-design-circular-queue](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0622-design-circular-queue) |
 | [0677-map-sum-pairs](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0677-map-sum-pairs) |
 | [0705-design-hashset](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0705-design-hashset) |
@@ -567,6 +572,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0443-string-compression) |
+| [0449-serialize-and-deserialize-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0516-longest-palindromic-subsequence) |
@@ -642,6 +648,7 @@
 | [0279-perfect-squares](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/rsemwal1711/Leetcode-questions/tree/master/0542-01-matrix) |
